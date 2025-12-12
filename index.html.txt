@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Examen Prueba</title>
+    <h1>Bienvenido al Desarrollo Web y JS</h1> 
 </head>
 <body>
     <h1 id="titulo">Bienvenido a la Lógica JS</h1>
