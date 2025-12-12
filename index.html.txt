@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Examen Git</title>
+    <title>Examen Gits</title>
 </head>
 <body>
     <h1 id="titulo">Bienvenido al Desarrollo Web</h1>
